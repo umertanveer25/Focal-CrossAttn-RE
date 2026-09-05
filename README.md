@@ -52,9 +52,9 @@ Official PyTorch implementation of the research paper: **"An Intelligent Dual-Tr
 
 ## 🔍 4. Explainable AI (SHAP & LIME)
 
-![Figure 5: SHAP Token Importance](diagram5_shap_importance.png)
-![Figure 6: LIME Feature Attribution](diagram6_lime_attribution.png)
-![Figure 7: SHAP vs LIME Comparison](diagram7_xai_comparison.png)
+![Figure 5: SHAP Token Importance](diagram5_shap_waterfall_v2.png)
+![Figure 6: LIME Feature Attribution](diagram6_lime_attribution_v2.png)
+![Figure 7: SHAP vs LIME Comparison](diagram7_xai_comparison_v2.png)
 
 ---
 
