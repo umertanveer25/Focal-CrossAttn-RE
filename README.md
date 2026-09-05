@@ -11,6 +11,11 @@ Official PyTorch implementation and empirical benchmark suite for the research p
 
 ---
 
+### 👥 Authors & Affiliation
+**Umer Tanveer, Hashim Ali, and Maqsood Hayat**  
+*Department of Computer Science, Abdul Wali Khan University Mardan*
+
+
 ## 📋 Table of Contents
 - [📌 Key Features & Innovations](#-key-features--innovations)
 - [🏗️ System Architecture & Layer Schemas](#-system-architecture--layer-schemas)
@@ -211,7 +216,7 @@ If you use this model architecture, code, or benchmark suite in your research, p
 ```bibtex
 @article{said2026intelligent,
   title={An Intelligent Dual-Transformer Model with Multi-Head Cross-Attention and Focal Loss for Requirements Engineering Classification},
-  author={Said, Martina Girgis and El-Fangary, Laila M. and Azzam, Safaa M. and Abohany, Amr A.},
+  author={Tanveer, Umer and Ali, Hashim and Hayat, Maqsood},
   journal={IEEE Access},
   volume={14},
   pages={40497--40511},
